@@ -31,12 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brijesh7303167111-debug&show_icons=true&theme=radical" alt="Brijesh's GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brijesh7303167111-debug&theme=radical" alt="GitHub streak" height="160" />
-</p>
 
 ---
 
